@@ -2,9 +2,11 @@
 
 ## Introduction
 
-The "Women of Ceos" is one of many essays in Plutarch's collection of essays, *On the Excellence of Women*. This work was originally written in Ancient Greek in the 2nd Century BCE. The version of the text that I worked with was translated by Frank Cole Babbitt, published in 1931. [^babbitt] I am publishing this digital edition of Plutarch's essay "The Women of Ceos" from _On the Excellence of Women_ under an open license, with documentation.
+The "Women of Ceos" is one of many essays in Plutarch's collection of essays, *On the Excellence of Women*. This work was originally written in Ancient Greek in the 2nd Century BCE. The version of the text that I worked with was translated by Frank Cole Babbitt, published in 1931. [^babbitt] A transcription of Babbitt's translation was published as HTML in the early 21st Century by Bill Thayer. [^Thayer] I am publishing this digital edition of Plutarch's essay "The Women of Ceos" from _On the Excellence of Women_ under an open license, with documentation.
 
 [^babbitt]: Babbitt, Frank Cole, trans. *Plutarch's Moralia*, Vol. 3, 172a-263c (Heinemann, 1931).
+[^Thayer]: Thayer, Bill. “Plutarch • On the Bravery of Women — Sections I‑XV.” LactusCurtus. http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/Bravery_of_Women*/A.html.
+
 
 ## Plutarch
 
@@ -51,4 +53,5 @@ In the four sentences of the short essay we see the message that Plutarch is try
 1. Hornblower, Simon, Antony Spawforth, and Esther Eidinow. The Oxford Classical Dictionary. Oxford: Oxford University Press, 2012, *s.v.* "Plutarch".
 1. Karamanolis, George. “Plutarch.” In The Stanford Encyclopedia of Philosophy, edited by Edward N. Zalta, Winter 2016. Metaphysics Research Lab, Stanford University, 2016. https://plato.stanford.edu/archives/win2016/entries/plutarch/.
 1. “Plutarch : Moralia - List of Translations.” http://www.attalus.org/info/moralia.html.
+1. Thayer, Bill. “Plutarch • On the Bravery of Women — Sections I‑XV.” LactusCurtus. http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Plutarch/Moralia/Bravery_of_Women*/A.html.
 1. Walbank, Frank. “Plutarch.” Encyclopedia Britannica. https://www.britannica.com/biography/Plutarch.
